@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Snake Game in JS"
-date:   2019-11-13 14:32: +1100
+date:   2019-11-13 14:32:00 +1100
 categories: projects
 ---
 
